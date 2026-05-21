@@ -1,10 +1,4 @@
 <div align="center">
-    <a href="https://www.linkedin.com/in/carlos-berdejo-migranas-7b5737233" target="_blank">
-        <img
-        src="https://images.weserv.nl/?url=github.com/boghus.png&w=150&h=150&fit=cover&mask=circle"
-        alt="Carlos Berdejo"
-        />
-    </a>
 
 ### Backend Developer • Integraciones • Automatización • Event-Driven Systems
 
